@@ -57,7 +57,12 @@ a {
   bottom: 5px;
 }
 
-
+@media screen and (min-width: 400px) {
+  .qr-code-card {
+    height: 595px;
+    width: 355px;
+  }
+}
 
 
 
